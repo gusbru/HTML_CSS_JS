@@ -1,0 +1,20 @@
+.sample {
+  display: flex;
+  flex-direction: row;
+}
+
+.l3 {
+  margin-left: 5px;
+}
+
+.s1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.s2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.s3 {
+  font-family: cursive;
+}
